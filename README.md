@@ -13,6 +13,10 @@ These power Claude's document capabilities:
 - [`skills/pptx`](https://github.com/anthropics/skills/tree/main/skills/pptx) - PowerPoint
 - [`skills/xlsx`](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Excel
 
+## Core Agent Skills Patterns
+
+- [`skills/skill-creator`](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Create, iterate on, and benchmark new Agent Skills (drafting SKILL.md, running evals, optimizing trigger descriptions)
+
 ## Status
 
 - Forked / archived: 2026-08-04
