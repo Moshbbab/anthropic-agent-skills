@@ -1,0 +1,21 @@
+{
+  "name": "anthropic-agent-skills",
+  "owner": {
+    "name": "Moshbbab"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugin marketplace archiving Apache-2.0-licensed skills from anthropics/skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "skill-creator",
+      "description": "Create new skills, modify and improve existing skills, and measure skill performance with evals",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/skill-creator"
+      ]
+    }
+  ]
+}
