@@ -28,7 +28,7 @@ These power Claude's document capabilities upstream:
 
 ## Core Agent Skills Patterns
 
-- [`skills/skill-creator`](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Create, iterate on, and benchmark new Agent Skills (drafting SKILL.md, running evals, optimizing trigger descriptions)
+- [`skills/skill-creator`](./skills/skill-creator) - Create, iterate on, and benchmark new Agent Skills (drafting SKILL.md, running evals, optimizing trigger descriptions). Also installable as a plugin — see [Plugin Marketplace](#plugin-marketplace) above.
 
 ## Status
 
