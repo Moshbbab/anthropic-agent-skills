@@ -26,6 +26,10 @@ These power Claude's document capabilities upstream:
 
 **Licensing note:** `docx`, `pdf`, `pptx`, and `xlsx` in the upstream repo are **source-available, not open source** — their `LICENSE.txt` explicitly prohibits extracting, copying, or redistributing those materials outside Anthropic's own Services. Only their `SKILL.md` files (`docx`, `pdf`) are kept here as personal reference notes; the full skill directories (scripts, schemas) are intentionally **not** mirrored, and none of the four are listed in the plugin marketplace above. `skill-creator` and most other "example skills" in the upstream repo are Apache 2.0 and don't carry this restriction.
 
+## Core Agent Skills Patterns
+
+- [`skills/skill-creator`](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - Create, iterate on, and benchmark new Agent Skills (drafting SKILL.md, running evals, optimizing trigger descriptions)
+
 ## Status
 
 - Forked / archived: 2026-08-04
