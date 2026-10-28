@@ -30,6 +30,10 @@ These power Claude's document capabilities upstream:
 
 - [`skills/skill-creator`](./skills/skill-creator) - Create, iterate on, and benchmark new Agent Skills (drafting SKILL.md, running evals, optimizing trigger descriptions). Also installable as a plugin — see [Plugin Marketplace](#plugin-marketplace) above.
 
+## Scripts
+
+- [`scripts/csv_library_audit`](./scripts/csv_library_audit) - DuckDB audit of a CSV folder tree: one row per file with real row/column counts, null percentage and approximate distinct count per column, sniffed delimiter/header/encoding, and a read status that keeps unreadable files visible.
+
 ## Status
 
 - Forked / archived: 2026-08-04
